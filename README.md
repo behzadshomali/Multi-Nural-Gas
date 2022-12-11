@@ -41,7 +41,7 @@ where $T_{max}$ is the total number of epochs.
 ### Results
 In our experiments, the MNG was able to capture the structure and distribution of the input space. The following videos show the evolution of the centers of the 3 and 4 NGs during the training process trained for 50 and 40 epochs, respectively.
 
-M=3 NGs, k=25| M=4 NGs, K=25
+M=3 NGs, K=25| M=4 NGs, K=25
 :----:|:----:
 <img src="./figures/3_ng.gif"></img>| <img src="./figures/4_ng_legend.gif"></img>
 
